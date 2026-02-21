@@ -278,12 +278,6 @@ npm run db:push
 - The app works without an API key using smart fallback responses
 - Check your API key is valid and has credits
 
-# ⚠️ Disclaimer
+# Disclaimer
 
 This project is a health tourism related ai for research, academic, and hackathon purposes only.
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TRISHUL-AI-00e5ff?style=for-the-badge" />
-</p>
