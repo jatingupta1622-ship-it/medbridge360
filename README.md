@@ -268,7 +268,3 @@ npm run db:push
 **OpenAI errors:**
 - The app works without an API key using smart fallback responses
 - Check your API key is valid and has credits
-
----
-
-Built with ❤️ using Next.js 14, Prisma, PostgreSQL, and OpenAI
