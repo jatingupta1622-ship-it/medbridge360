@@ -280,7 +280,7 @@ npm run db:push
 
 # ⚠️ Disclaimer
 
-This project is a defense simulation prototype built for research, academic, and hackathon purposes only.
+This project is a health tourism related ai for research, academic, and hackathon purposes only.
 
 ---
 
