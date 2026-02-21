@@ -277,3 +277,13 @@ npm run db:push
 **OpenAI errors:**
 - The app works without an API key using smart fallback responses
 - Check your API key is valid and has credits
+
+# ⚠️ Disclaimer
+
+This project is a defense simulation prototype built for research, academic, and hackathon purposes only.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TRISHUL-AI-00e5ff?style=for-the-badge" />
+</p>
