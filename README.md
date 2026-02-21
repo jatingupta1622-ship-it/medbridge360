@@ -93,6 +93,15 @@ npm run db:push
 npm run db:seed
 ```
 
+# ⚠️ Disclaimer
+
+This project is a defense simulation prototype built for research, academic, and hackathon purposes only.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TRISHUL-AI-00e5ff?style=for-the-badge" />
+</p>
 This will seed the database with **8 real hospitals** across India including:
 - Apollo Hospitals (Chennai)
 - Fortis Memorial Research Institute (Gurugram)
